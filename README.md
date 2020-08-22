@@ -1,9 +1,9 @@
 # RESTFUL API with DOCKER and MySQL
 
-Time Taken : 17 Hrs
+## Time Taken : 17 Hrs
 
-Built with Love By:
-Devang Sharma (CISCO)
+Developed with ❤️ By:
+## Devang Sharma (CISCO)
 
 ## 1.Creating Network in Docker
 
