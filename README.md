@@ -1,6 +1,6 @@
-# RESTFUL API with DOCKER and MySQL
+# RESTFUL API with DOCKER Contanier and MySQL - Devang Sharma
 
-## Time Taken : 17 Hrs
+## Time Taken : 3.5 Hrs
 
 Developed with ❤️ By:
 ## Devang Sharma (CISCO)
